@@ -6,4 +6,4 @@ The website has been upgraded and enhanced with a fresh new interface, utilizing
 
 * [Website demo](https://youtu.be/nj5UVMk5A98) - Interface of the website.
 * [3D and AR](https://youtu.be/gLtoBnDJ-rk) - Example of augmented reality.
-* [Send email demo](https://youtu.be/LUWNska7-R8) - Example of sending an email to a user.
+* [Send email demo](https://youtu.be/A-KWAYAkl1M) - Example of sending an email to a user.
